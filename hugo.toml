@@ -1,4 +1,4 @@
-baseurl      = "https://vasilizaportfolio.github.io/"
+baseurl      = "localhost"
 title        = "My portfolio"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
